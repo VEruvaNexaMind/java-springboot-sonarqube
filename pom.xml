@@ -55,10 +55,8 @@
 <activeByDefault>true</activeByDefault>
 </activation>
 <properties>
-<!-- Optional URL to server. Default value is http://localhost:9000 -->
-<sonar.host.url>
-http://192.168.0.155:9000
-</sonar.host.url>
+  <sonar.organization>veruvanexamind</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
 </profile>
 </profiles>
